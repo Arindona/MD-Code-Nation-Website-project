@@ -1,0 +1,79 @@
+body {
+        background: url(background.jpeg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        
+
+}
+
+*{ margin: 0px;}
+
+.background {
+    background-color: rgba(224, 241, 238, 0.5);
+    margin:0px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.main {
+    font-family: "Verdana", Sans-serif;
+    font-size: 20px;
+   }
+
+.background1 {
+    background-color: rgba(92, 230, 57, 0.3);
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+#image1 {
+    width: 150px;
+    height: 150px;
+}
+.medpln {
+    font-family: "Verdana", Sans-serif;
+    font-size: 20px;
+    
+   }
+.med {
+    color: rgb(35, 83, 3);
+    font-family: "Verdana", Sans-serif;
+    font-size: 20px;
+    
+   }
+
+
+.bold {
+    font-weight: bold;   
+}
+.large {
+    font-size: 30px;
+   }
+h1 {
+    font-family: "Verdana", Sans-serif;
+    font-size: 30px;
+    }
+h2 {
+        font-family: "Verdana", Sans-serif;
+        font-size: 25px;
+        }  
+      
+.green {
+    color: rgb(35, 83, 3); 
+}  
+
+.whtonbl {
+    background-color: rgb(23, 6, 100);
+    text-align: center; 
+    color: white
+}
+.centimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
